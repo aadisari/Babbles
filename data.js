@@ -1,7 +1,7 @@
 const chatStats = {
-    "total_messages": 32438,
-    "sent_by_me": 17370,
-    "sent_by_them": 15068,
+    "total_messages": 32441,
+    "sent_by_me": 17371,
+    "sent_by_them": 15070,
     "hourly_distribution": [
         2711,
         1166,
@@ -26,7 +26,7 @@ const chatStats = {
         1359,
         2022,
         3190,
-        3507
+        3510
     ],
     "my_word_counts": {
         "love ": 372,
