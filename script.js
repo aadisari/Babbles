@@ -15,4 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const hourElement = document.getElementById('hours');
     const hourArray = chatStats.hourly_distribution
     hourElement.innerText = '11pm';
+
+    const noteElement = document.getElementById('note');
+    noteElement.innerText = note_data.note;
 });
